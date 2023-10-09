@@ -45,4 +45,4 @@ Configurations can be tedious. Not anymore! With **Epi Bot's** intuitive dashboa
 
 ---
 
-💙 If you like **Epi Bot**, give this repository a star! ⭐
+💙 Epi Team
