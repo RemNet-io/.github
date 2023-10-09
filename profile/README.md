@@ -1,9 +1,10 @@
+# 🐛 Create Bug Reports & Product Suggestions:
+Click [here](https://github.com/Epi-Bot/Epi-Bot/issues)
+
 # 🚀 Epi Bot
 
 > 🤖 **Epi Bot** - Your server's ultimate companion. Making server management epic, one command at a time.
 
-# Create Bug Reports & Product Suggestions:
-Click [here](https://github.com/Epi-Bot/Epi-Bot/issues)
 
 ## 🌟 Features
 
