@@ -1,5 +1,5 @@
 # 🐛 Create Bug Reports & Product Suggestions:
-### 🔗 Click [here](https://github.com/Epi-Bot/Epi-Bot/issues)
+### 🔗 [Click here to Create Bug Reports & Product Suggestions](https://github.com/Epi-Bot/Epi-Bot/issues)
 
 # 🚀 Epi Bot
 
