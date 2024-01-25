@@ -9,9 +9,9 @@
 
 ## 📥 Installation & Setup
 
-1. **Invite Bot**: Click [here](https://epibot.xyz/dashboard) to invite **Epi Bot** to your server.
+1. **Invite Bot**: Click [here](https://epi.bot/dashboard) to invite **Epi Bot** to your server.
 2. **Set Permissions**: Ensure **Epi Bot** has the necessary permissions for smooth functioning.
-3. **Configuration**: Visit [Dashboard](https://epibot.xyz/dashboard) to fine-tune your settings as per your server's needs.
+3. **Configuration**: Visit [Dashboard](https://epi.bot/dashboard) to fine-tune your settings as per your server's needs.
 
 ## 💬 Support & Feedback
 
@@ -19,9 +19,9 @@ Facing issues or have suggestions? Join our [Support Server](https://discord.gg/
 
 ## 🌐 Links
 
-- [Official Website](https://epibot.xyz/)
+- [Official Website](https://epi.bot/)
 - [Support Server](https://discord.gg/38qm5T2X)
-- [Invite Epi Bot](https://epibot.xyz/dashboard)
+- [Invite Epi Bot](https://epi.bot/dashboard)
 
 
 
